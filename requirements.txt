@@ -1,2 +1,3 @@
 Django==1.4.1
 distribute==0.6.27
+gemfileparser==0.6.2
