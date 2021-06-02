@@ -1,3 +1,5 @@
 Django==1.4.1
 distribute==0.6.27
 gemfileparser==0.6.2
+psycopg2==2.4.5
+wsgiref=a=0.1.2 
